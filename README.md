@@ -1,7 +1,6 @@
 # Oracle-Database-Project
 Project made during the 3rd semester of studies
-188 / 5000
-Wyniki tłumaczenia
+
 a) script for introducing database structures:
 
 instalacja_projektu.sql
